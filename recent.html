@@ -115,7 +115,7 @@
                     <div id="thedestination"></div>
                     <script>
                         $(document).ready(function () {
-                            $.get('browse.json', function (json) {
+                            $.get('recent.json', function (json) {
 
                                 $('#torrents').html(Mustache.render($('#thetemplate').html(), json));
 
