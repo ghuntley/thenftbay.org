@@ -1,3 +1,0 @@
-Crawl-delay: 1
-User-agent: *
-Disallow: /session/
