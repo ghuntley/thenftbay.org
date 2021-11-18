@@ -1,4 +1,4 @@
-# thenftbay.org
+# The NFT Bay is the galaxy's most resilient NFT BitTorrent site!
 
 
 ```
@@ -187,3 +187,4 @@
         º                    VERSION CONTROL:  RAZOR.016 11/18/21                    º
         ÓÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ½
 ```
+## You wouldn't steal a JPEG (or would you...)
