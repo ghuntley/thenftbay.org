@@ -1,0 +1,6 @@
+tasks:
+  - name: webserver
+    command: |
+      python -m http.server
+
+
